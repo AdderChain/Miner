@@ -1,1 +1,2 @@
-# You can visit www.adderchain.com
+# www.adderchain.com
+support@adderchain.com
